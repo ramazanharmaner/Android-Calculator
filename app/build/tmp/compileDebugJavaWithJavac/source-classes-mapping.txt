@@ -1,0 +1,2 @@
+com/harmaner/calculator/BuildConfig.java
+ com.harmaner.calculator.BuildConfig
